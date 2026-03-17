@@ -1,0 +1,5 @@
+Big Picture
+
+* Planner Agent --> strategiest plotting solution to a problem
+* Worker Agent --> Doer based on the Planner
+* Reviewer Agent --> feeback provider for the work
